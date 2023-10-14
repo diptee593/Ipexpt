@@ -1,0 +1,116 @@
+   <html>
+<head>
+<title>
+resume</title>
+<link rel="stylesheet" href="a.css" />
+<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <div class="full-name">
+      <span class="first-name">Diptee</span> 
+      <span class="last-name">Sable</span>
+    </div>
+    <div class="contact-info">
+      <span class="email">Email: </span>
+      <span class="email-val">diptee.sable@somaiya.edu</span>
+      <span class="separator"></span>
+      <span class="phone">Phone: </span>
+      <span class="phone-val">9833464976</span>
+    </div>
+    <div class="about">
+      <span class="desc">
+        I am a Student of kjsit pursuing btech in computer engineering having skills in  writing html, css, java , mysql and js. I'm motivated, result-focused and seeking a successful team-oriented company with opportunity to grow. 
+      </span>
+    </div>
+  </div>
+   <div class="details">
+    <div class="section">
+      <div class="section__title">Experience</div>
+      <div class="section__list">
+        <div class="section__list-item">
+          <div class="left">
+            <div class="name">Internship</div>
+            <div class="addr">1 stop Internship</div>
+            <div class="duration">may 2023 to june 2023</div>
+          </div>
+      </div>
+    </div>
+    <br>
+    <div class="section">
+      <div class="section__title">Education</div>
+      <div class="section__list">
+        <div class="section__list-item">
+          <div class="left">
+            <div class="name">Pace Junior science college</div>
+            <div class="addr">Thane</div>
+            <div class="duration">2019-2021</div>
+          </div>
+        <div class="section__list-item">
+          <div class="left">
+            <div class="name">K J Somaiya institute of engineering</div>
+            <div class="addr">Sion</div>
+          </div>
+</div>  </div>
+     <div class="section">
+      <div class="section__title">Projects</div> 
+       <div class="section__list">
+         <div class="section__list-item">
+           <div class="name">Online Food ordering system</div>
+           <div class="text">The System is developed using java as main language</div>
+         </div>
+                  <div class="section__list-item">
+                    <div class="name">Other</div>
+           <div class="text">Other small projects are developed using mysql , angular , html</div>
+           </div>
+         </div>
+       </div>
+    </div>
+     <div class="section">
+       <div class="section__title">Skills</div>
+       <div class="skills">
+         <div class="skills__item">
+           <div class="left"><div class="name">
+             Java
+             </div></div>
+         </div>       
+       </div>
+       <div class="skills__item">
+           <div class="left"><div class="name">
+             HTML</div></div>
+         </div>
+         <div class="skills__item">
+            <div class="left"><div class="name">
+              CSS</div></div> 
+          </div>
+          <div class="skills__item">
+            <div class="left"><div class="name">
+              JAVASCRIPT</div></div>
+            
+          </div>
+          <div class="skills__item">
+            <div class="left"><div class="name">
+              MYSQL</div></div>
+            
+          </div>
+          <div class="skills__item">
+            <div class="left"><div class="name">
+              ANGULAR</div></div>
+                      </div>
+                </div>
+     <div class="section">
+     <div class="section__title">
+       Interests
+       </div>
+       <div class="section__list">
+         <div class="section__list-item">
+                  Drawing, programming, Travelling.
+          </div>
+       </div>
+     </div>
+     </div>
+  </div>
+</div>
+</body>
+</html>
